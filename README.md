@@ -1,6 +1,6 @@
 # Data warehouse requirements task
 
-Welcome to a test exercise for system analytics. You will be given a short, three paragraph long, description of a software product called "Data warehouse". Based on the description you are expected to create two outputs: three user stories, small data architecture containing at-least three items. The description in question may not contain the entire for each identifiable user story or data structure. If such an occasion arises you should highlight any of such pieces of missing information and point out questions by which these gaps can be filled.
+Welcome to a test exercise for system analytics. You will be given a short, three paragraph long, description of a software product called "Data warehouse". Based on the description you are expected to create two outputs: three user stories, small data architecture containing at-least three items. The description may not contain complete information for each identifiable user story or data structure. If such an occasion arises you should highlight any of such pieces of missing information and point out questions by which these gaps can be filled.
 
 Estimated time to complete this task is ca 1-2 hours. That should also serve as a hint of expected level of detail in the submission. Good luck!
 
